@@ -7,6 +7,7 @@ int main()
     int n;
     double sum=0;
     double average;
+    cout<<"print value of n";
     cin>>n;
     int arr[n];
     for(int i=0;i<n;i++){
